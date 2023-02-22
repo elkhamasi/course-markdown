@@ -1,6 +1,8 @@
-## GITHUB for Data Analysts and PowerPlatform Developers
-### Communicate effectively on GitHub using Markdown
-
+### Completed tasks
+- [x] Adding headers
+- [x] Adding images
+- [x] Adding code samples
+- [x] Listing items
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
